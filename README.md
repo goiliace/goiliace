@@ -1,5 +1,5 @@
 ### Hi there 👋. Hi, I'm Hung and i'm lazy
-![1](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
+![1](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif) ![2](https://media.giphy.com/media/ToMjGppLes0ENI5osCc/giphy.gif)
 <!--
 **GoiliAce/goiliace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
