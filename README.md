@@ -1,4 +1,7 @@
 ### Hi there 👋. I'm Hung and i'm a lonely electric pole in crowded city
+
+- 💬 *Simple is best!*
+
  ![1](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)  ![2](https://media.giphy.com/media/yedDQGWwq0heU/giphy.gif) 
 <!--
 **GoiliAce/goiliace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
