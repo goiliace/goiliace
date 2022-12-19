@@ -1,8 +1,9 @@
 ### Hi there 👋. I'm Hung and i'm a lonely electric pole in crowded city
 
 - 💬 *Simple is best!*
+- 🌱 *I’m currently learning computer science*
 - 📫 *Email: caonguyengiahung442@gmail.com*
-- <i class="fa-brands fa-facebook">demo</i> 
+- 😍 *Love game, coding and you*
 
  ![1](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)  ![2](https://media.giphy.com/media/yedDQGWwq0heU/giphy.gif) 
 <!--
