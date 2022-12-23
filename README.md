@@ -1,7 +1,7 @@
 # Hi there 👋. I'm Hung and i'm a lonely electric pole in crowded city
 
 
-<img  align="right" width="50%"  src="https://user-images.githubusercontent.com/74876682/209272657-43c1cb64-2808-43bd-85fc-3156ff690215.png" />
+<img  align="right" width="46%"  src="https://user-images.githubusercontent.com/74876682/209272657-43c1cb64-2808-43bd-85fc-3156ff690215.png" />
 
 - 💬 *Simple is best!*
 - 🌱 *I’m currently learning computer science*
@@ -9,6 +9,13 @@
 - 😍 *Love game, coding and you*
 
 
+ <img style="margin-bottom: 10px;" align = "left" width="38%" src="https://github-readme-stats.vercel.app/api?username=goiliace&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+<img align = "left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goiliace&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+
+
+ 
+ 
+ 
 ![1](https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif)
 
 <!-- ![2](https://raw.githubusercontent.com/brudnak/brudnak/output/github-contribution-grid-snake.svg) -->
