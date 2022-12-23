@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/74876682/209272145-9cbd531d-fce7-4341-81d3-088fa51277a8.png)
+
 ### Hi there 👋. I'm Hung and i'm a lonely electric pole in crowded city
 
 - 💬 *Simple is best!*
