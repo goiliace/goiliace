@@ -1,11 +1,11 @@
-![image](https://user-images.githubusercontent.com/74876682/209272145-9cbd531d-fce7-4341-81d3-088fa51277a8.png)
-
-### Hi there 👋. I'm Hung and i'm a lonely electric pole in crowded city
+# Hi there 👋. I'm Hung and i'm a lonely electric pole in crowded city
+<img  align="right" width="20%"  src="https://user-images.githubusercontent.com/74876682/209272657-43c1cb64-2808-43bd-85fc-3156ff690215.png" />
 
 - 💬 *Simple is best!*
 - 🌱 *I’m currently learning computer science*
 - 📫 *Email: caonguyengiahung442@gmail.com*
 - 😍 *Love game, coding and you*
+
 
 ![1](https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif)
 
