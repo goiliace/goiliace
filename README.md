@@ -1,7 +1,7 @@
 # Hi there 👋. I'm Hung and i'm a lonely electric pole in crowded city
 
 
-<img  align="right" width="47%"  src="https://user-images.githubusercontent.com/74876682/209272657-43c1cb64-2808-43bd-85fc-3156ff690215.png" />
+<img  align="right" width="47%"  src="https://i.pinimg.com/564x/33/c2/aa/33c2aa58a1b474486d581a9ce32900a9.jpg" />
 
 - 💬 *Simple is best!*
 - 🌱 *I’m currently learning computer science*
