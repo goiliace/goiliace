@@ -10,7 +10,6 @@
 
 
 
-![GiaHung's GitHub stats](https://github-readme-stats.vercel.app/api?username=goiliace&hide=contribs,prs&show_icons=true&theme=radical)
 ![giahung's GitHub stats](https://github-readme-stats.vercel.app/api?username=goiliace&show_icons=true&theme=radical)
 
 
