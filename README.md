@@ -9,8 +9,9 @@
 - 😍 *Love game, coding and you*
 
 
- <img style="margin-bottom: 10px;" align = "left" width="38%" src="https://github-readme-stats.vercel.app/api?username=goiliace&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
-<img align = "left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goiliace&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+
+![GiaHung's GitHub stats](https://github-readme-stats.vercel.app/api?username=goiliace&hide=contribs,prs&show_icons=true&theme=radical)
+![giahung's GitHub stats](https://github-readme-stats.vercel.app/api?username=goiliace&show_icons=true&theme=radical)
 
 
  
