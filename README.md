@@ -6,7 +6,7 @@
 - 💬 *Simple is best!*
 - 🌱 *I’m currently learning computer science*
 - 📫 *Email: caonguyengiahung442@gmail.com*
-- 😍 *Love game, coding and you*
+<!-- - 😍 *Love game, coding and you* -->
 
 <!-- ![giahung's GitHub stats](https://github-readme-stats.vercel.app/api?username=goiliace&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goiliace&show_icons=true&theme=radical)
