@@ -9,7 +9,7 @@
 <!-- - 😍 *Love game, coding and you* -->
 
 <!-- ![giahung's GitHub stats](https://github-readme-stats.vercel.app/api?username=goiliace&show_icons=true&theme=radical) -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=huuminh365&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=goiliace&show_icons=true&theme=transparent)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goiliace&show_icons=true&theme=radical) -->
 
 
