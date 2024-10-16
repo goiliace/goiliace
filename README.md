@@ -9,7 +9,8 @@
 <!-- - 😍 *Love game, coding and you* -->
 
 <!-- ![giahung's GitHub stats](https://github-readme-stats.vercel.app/api?username=goiliace&show_icons=true&theme=radical) -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=goiliace&show_icons=true&theme=transparent)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=goiliace&show_icons=true&theme=transparent) -->
+![cat](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goiliace&show_icons=true&theme=radical) -->
 
 
